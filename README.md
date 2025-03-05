@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bilel Lefi</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **React , Testing or anything else**
+- 💬 Ask me about **SpringBoot , Testing or anything else**
 
 - 📫 How to reach me **bilellefi06@gmail.com**
 
